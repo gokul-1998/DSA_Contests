@@ -1,3 +1,5 @@
+- https://codeforces.com/contest/2275/problem/A
+
 # A. In Search of Convenience
 
 K1o0n got a router and placed it at point $(x_0, y_0)$; we will consider the apartment layout as a coordinate plane, and the floor is tiled, so the furniture can stand only at lattice points with integer coordinates.
